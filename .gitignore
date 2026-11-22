@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Kivy/Buildozer build output
+bin/
+.buildozer/
+
+# OS/editor files
+.DS_Store
+.vscode/
